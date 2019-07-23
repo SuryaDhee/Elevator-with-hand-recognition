@@ -1,4 +1,4 @@
-# Elevator-with-hand-recognition
+# Elevator with hand recognition
 
 
 
