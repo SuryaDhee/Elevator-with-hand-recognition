@@ -322,11 +322,11 @@ int main()
         moveWindow("binary2",700,40);
         imshow("hull2",hand_square2);
         moveWindow("hull2",1000,40);
-        switch(waitKey(10))
+        switch(waitKey(100))
         {
-            case 27://exit //ESC
+            case 27://exit //PRESS ESC TO ESCAPE
                 return 0;
-            case 98://refresh background
+            case 98://refresh background // PRESS B TO REFRESH
                 
                 cam>>bkg2;
                 flip(bkg2,bkg2, 1);
@@ -339,7 +339,7 @@ int main()
                 break;
                 
                 
-            case 102://restart values
+            case 102://restart values 102 // PRESS F TO RESET VALUES
                 fingers1=-1;
                 fingers2=-1;
                 f1=0;f2=0;
