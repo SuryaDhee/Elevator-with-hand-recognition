@@ -24,7 +24,7 @@ OpenCV is used to detect the number of fingers on a user's hand.
 <img src= 'Images/Lift_movement.png' height=500>
 
 
-For more information on code, check my website [here](https://suryadheeshjith.github.io/projects/proj4/)
+For more information on code, check my website [here](https://suryadheeshjith.github.io/projects/elevator_with_hand_recog/)
 
 ### Authors
 
